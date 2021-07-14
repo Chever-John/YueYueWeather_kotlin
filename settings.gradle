@@ -1,0 +1,2 @@
+rootProject.name = "YueYueWeather_kotlin"
+include ':app'
